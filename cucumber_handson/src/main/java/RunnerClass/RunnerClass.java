@@ -17,7 +17,7 @@ monochrome=true, /*-> this will help to print the console in human understandabl
 //format= {"html:Reports/htmlreport", "json:Reports/jasonreport.jason","junit:Reports/xmlreport.xml"} -> it is depreciated still we can use to generate report
 //plugin= {"html:Reports/htmlreport", "json:Reports/jasonreport.jason","junit:Reports/xmlreport.xml"} /*->  this will help to generate report based on whet we input (html or json or xml */
 
-tags= {"@Food"}
+tags= {"@TaggedHook"}
 		)
 public class RunnerClass {
 
